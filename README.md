@@ -29,8 +29,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/meandrewaprianto/qr-code-componentsm)
+- Live Site URL: [Vercel](https://qr-code-components-gold.vercel.app)
 
 ## My process
 
@@ -48,4 +48,4 @@ Sure, if anything new technologies, i will revisited it again.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/meandrewaprianto)
+- Frontend Mentor - [@meandrewaprianto](https://www.frontendmentor.io/profile/meandrewaprianto)
